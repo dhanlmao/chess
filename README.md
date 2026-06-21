@@ -6,10 +6,10 @@ A two-player chess game that runs entirely in the browser — no build step, no 
 
 Just open `chess.html` in any browser. Two players share the same screen and take turns clicking.
 
-Or, if hosted on GitHub Pages:
+Or, Go to:
 
 ```
-https://your-username.github.io/your-repo-name/chess.html
+https://dhanlmao.github.io/chess/chess.html
 ```
 
 ## Features
